@@ -22,3 +22,8 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+.idea*
+wifi_reconnect.git.iml
+wifi_reconnect.git
+wifi_reconnect
