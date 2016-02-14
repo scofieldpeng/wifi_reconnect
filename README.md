@@ -11,7 +11,7 @@
 ## 安装
 
 ```golang
-go get http://github.com/scofieldpeng/wifi_reconnect
+go get github.com/scofieldpeng/wifi_reconnect
 ```
 
 ## 使用
